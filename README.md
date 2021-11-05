@@ -20,3 +20,5 @@ And my daily:
 I have done.(Although it's far too less....)
 
 ![](https://github-readme-stats.vercel.app/api?username=153084704&theme=tokyonight)
+
+But I still think I'm a wonderfull pretty cool girl in the world!
