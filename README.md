@@ -1,4 +1,4 @@
-### Nice to see you here. 👋
+### Nice to meet you here. 👋
 
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ My daily:
 
 And my daily:
 
-![image](https://github.com/153084704/153084704/blob/main/02.png)
 
 What I have done.(Although it's far too less....)
 
